@@ -1,0 +1,27 @@
+# 管理员配置文件
+admins:
+  - name: "admin"
+    password: "admin123"
+    role: "超级管理员"
+    permissions:
+      - "view_inventory"
+      - "view_sales"
+      - "view_profit"
+      - "check_product"
+      - "manage_users"
+      - "system_config"
+  
+  - name: "manager"
+    password: "manager456"
+    role: "店长"
+    permissions:
+      - "view_inventory"
+      - "view_sales"
+      - "view_profit"
+      - "check_product"
+
+# 默认管理员设置
+default_admin:
+  session_timeout: 30  # 会话超时时间（分钟）
+  max_login_attempts: 3  # 最大登录尝试次数
+  password_min_length: 6  # 密码最小长度

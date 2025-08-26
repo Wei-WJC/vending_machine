@@ -1,0 +1,5 @@
+# 王五的用户配置文件
+user:
+  name: "王五"
+  balance: 25.5
+  history: []

@@ -1,0 +1,10 @@
+user:
+  balance: 23.5
+  history:
+  - price: 3.5
+    product: 可乐
+    timestamp: '2025-08-23 18:54:04'
+  - price: 3.0
+    product: 雪碧
+    timestamp: '2025-08-23 18:54:04'
+  name: 赵六

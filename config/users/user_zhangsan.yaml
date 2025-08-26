@@ -1,0 +1,13 @@
+user:
+  balance: 68.0
+  history:
+  - price: 3.5
+    product: 可乐
+    timestamp: '2025-08-23 10:30:00'
+  - price: 3.0
+    product: 雪碧
+    timestamp: '2025-08-23 11:15:00'
+  - price: 2.0
+    product: 矿泉水
+    timestamp: '2025-08-23 18:54:04'
+  name: 张三

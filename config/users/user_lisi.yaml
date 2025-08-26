@@ -1,0 +1,8 @@
+# 李四的用户配置文件
+user:
+  name: "李四"
+  balance: 100.0
+  history:
+    - product: "橙汁"
+      price: 4.0
+      timestamp: "2025-08-23 09:45:00"
