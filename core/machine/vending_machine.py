@@ -1,4 +1,3 @@
-from _typeshed import ProfileFunction
 from ast import main
 import os
 import yaml
@@ -119,4 +118,3 @@ class Vending_machine:
         """
         logger.info(f'库存信息{self.inventory}')
         return self.inventory
- 
